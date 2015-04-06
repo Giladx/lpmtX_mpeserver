@@ -1,0 +1,6 @@
+<settings>
+	<port>9002</port>
+	<numclients>6</numclients>
+	<framerate>30</framerate>
+	<debug>1</debug>
+</settings>
